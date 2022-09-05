@@ -1,0 +1,11 @@
+{
+	"order_uid": "asd123",
+	"destination": "Izhevsk",
+	"weigth": 228,
+	"client": {
+		"name": "Ivan",
+		"lastname": "Lebedev",
+		"age": 23,
+		"user_uid": "9182387jasihfj"
+	}
+}
